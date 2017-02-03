@@ -1,0 +1,7 @@
+{application, fa,
+  [{description, "Font-Awesome"},
+   {vsn, "4.5.0"},
+   {registered, []},
+   {applications, [kernel, stdlib]},
+   {mod, { fa, []}},
+   {env, []} ]}.
